@@ -24,5 +24,5 @@ yes							#Fit Wilson profile
 nprofit_library                                         #Absolute nProFit library path
 1							#Fitting procedure options (1 automatically fit, 2 prepare a script to fit later the models, 3 fits already performed)
 yes							#Plot surface brightness profiles and dynamical models fitting
-/Applications/SAOImageDS9.app/Contents/MacOS/ds9	#DS9 path (if the previous option is yes)
+/home/giorgio/ds9                      			#DS9 path (if the previous option is yes)
 yes							#Compute derived parameters
