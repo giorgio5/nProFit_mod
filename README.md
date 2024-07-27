@@ -1,4 +1,15 @@
 # nProFit_mod 
+_mod README
+I modified the repo nProFit  just for running test on different architecture machines (the original repo runs on macOS
+and with little changes also on Debian11 (64 bit) or of course any other Linux distro)
+I'm not already sure if my work is right.
+So please do not trust in this repo, see the repo nProFit instead!!!
+
+(Giorgio Barone - Unisalento - Lecce - Italy) 
+
+______________________________________________________________________________________________
+# nProfit   (the original repo)
+
 Tool for analysis of surface brightness profiles
 When using nProFit refer to Cuevas-Otahola et al. 2021
 
